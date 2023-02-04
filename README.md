@@ -18,6 +18,8 @@ The data contains 4 different types of anemia which are:
   -For each of the mentioned types of Anemia above you will find in the document inside the folder the main symptoms of each type in a question way.
   
   
+  - The used library to create the GUI is PySimpleGUI 
+  
   -To run the code you need to delete the compiled_krb file and you will need to repeat this every time you run the code or the changes you make won't happen.
   
   If you need help you can reach me via E-mail:
