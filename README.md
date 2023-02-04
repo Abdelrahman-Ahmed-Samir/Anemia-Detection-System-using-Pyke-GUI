@@ -16,7 +16,9 @@ The data contains 4 different types of anemia which are:
 	and hearing loss and/or any ear anomalies.
   
   -For each of the mentioned types of Anemia above you will find in the document inside the folder the main symptoms of each type in a question way.
+  
+  
   -To run the code you need to delete the compiled_krb file and you will need to repeat this every time you run the code or the changes you make won't happen.
   
   If you need help you can reach me via E-mail:
-  E-mail: bedosamir48@gmail.com
+ bedosamir48@gmail.com
