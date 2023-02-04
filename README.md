@@ -15,7 +15,7 @@ The data contains 4 different types of anemia which are:
 	time, any form of bleeding following a minor incident, thumb anomalies since birth, drooping eyelids 
 	and hearing loss and/or any ear anomalies.
   
-  -For each of the mentioned types of Anemia above you will find in the document inside the folder the main symptoms of each type in a question way.
+  -For each of the mentioned types of Anemia above you will find in the SystemInfo file inside the folder the main symptoms of each type in a question and answer way.
   
   
   - The used library to create the GUI is PySimpleGUI 
